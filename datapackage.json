@@ -1,0 +1,101 @@
+{
+  "title": "Expenditure on Research and Development(R&D)",
+  "name": "expenditure-on-research-and-development",
+  "sources":[
+    {
+      "title": "UNESCO institute for statistics",
+      "path": "http://data.uis.unesco.org/"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "odc-pddl",
+      "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)",
+      "path": "http://opendatacommons.org/licenses/pddl/"
+    }
+  ],
+  "resources": [
+    {
+      "path": "data/expenditure.csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "name": "expenditure",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "LOCATION",
+            "type": "string",
+            "description": "Country code"
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "description": "Country name"
+          },
+          {
+            "name": "TIME",
+            "type": "year",
+            "description": "Date in the form of %Y"
+          },
+          {
+            "name": "Business enterprise",
+            "type": "number",
+            "description": "GERD - financed by Business enterprise (in '000 current PPP$)"
+          },
+          {
+            "name": "Government",
+            "type": "number",
+            "description": "GERD - financed by Government (in '000 current PPP$)"
+          },
+          {
+            "name": "Higher Education",
+            "type": "number",
+            "description": "GERD - financed by Higher education (in '000 current PPP$)"
+          },
+          {
+            "name": "Private non-profit",
+            "type": "number",
+            "description": "GERD - financed by Private non-profit (in '000 current PPP$)"
+          },
+          {
+            "name": "Rest of the world",
+            "type": "number",
+            "description": "GERD - financed by Rest of the world (abroad) (in '000 current PPP$)"
+          },
+          {
+            "name": "Not specified source",
+            "type": "string",
+            "description": "GERD - financed by Not specified source (in '000 current PPP$)"
+          },
+          {
+            "name": "Basic research",
+            "type": "string",
+            "description": "GERD - Basic research (in '000 current PPP$)"
+          },
+          {
+            "name": "Applied research",
+            "type": "string",
+            "description": "GERD - Applied research (in '000 current PPP$)"
+          },
+          {
+            "name": "Experimental development",
+            "type": "string",
+            "description": "GERD - Experimental development (in '000 current PPP$)"
+          },
+          {
+            "name": "Not specified activities",
+            "type": "string",
+            "description": "GERD - Not specified activities (in '000 current PPP$)"
+          },
+          {
+            "name": "Medical and health sciences",
+            "type": "string",
+            "description": "GERD - Medical and health sciences (in '000 current PPP$)"
+          }
+        ]
+      }
+    }
+  ]
+}

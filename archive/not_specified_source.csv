@@ -1,0 +1,585 @@
+LOCATION,Country,TIME,Not specified source
+ARG,Argentina,1997,
+ARG,Argentina,1998,
+ARG,Argentina,1999,
+ARG,Argentina,2000,
+ARG,Argentina,2001,
+ARG,Argentina,2002,45.89936
+ARG,Argentina,2003,5.72538
+ARG,Argentina,2004,24.85065
+ARG,Argentina,2005,12.04887
+ARG,Argentina,2006,
+ARG,Argentina,2007,
+ARG,Argentina,2008,19.2656
+ARM,Armenia,1997,3239.80575
+ARM,Armenia,1998,3670.53073
+ARM,Armenia,1999,4671.50804
+ARM,Armenia,2000,3114.57312
+ARM,Armenia,2001,9806.84747
+ARM,Armenia,2002,7768.32793
+ARM,Armenia,2003,18797.06651
+ARM,Armenia,2004,15396.61694
+ARM,Armenia,2005,6516.52721
+ARM,Armenia,2006,10226.36549
+ARM,Armenia,2007,15723.14932
+ARM,Armenia,2008,20062.94101
+ARM,Armenia,2009,21529.98255
+ARM,Armenia,2010,1745.87047
+ARM,Armenia,2011,20298.74787
+ARM,Armenia,2013,15884.71358
+ARM,Armenia,2014,14053.02661
+ARM,Armenia,2015,15219.6841
+AZE,Azerbaijan,2001,
+AZE,Azerbaijan,2002,
+AZE,Azerbaijan,2003,
+AZE,Azerbaijan,2004,
+AZE,Azerbaijan,2005,
+AZE,Azerbaijan,2006,
+AZE,Azerbaijan,2007,
+AZE,Azerbaijan,2008,
+AZE,Azerbaijan,2009,
+AZE,Azerbaijan,2010,
+AZE,Azerbaijan,2011,
+AZE,Azerbaijan,2012,
+AZE,Azerbaijan,2013,
+AZE,Azerbaijan,2014,
+AZE,Azerbaijan,2015,
+BLR,Belarus,1997,
+BLR,Belarus,1998,
+BLR,Belarus,1999,
+BLR,Belarus,2000,
+BLR,Belarus,2001,
+BLR,Belarus,2002,
+BLR,Belarus,2003,
+BLR,Belarus,2004,
+BLR,Belarus,2005,
+BLR,Belarus,2006,
+BLR,Belarus,2007,
+BLR,Belarus,2008,
+BLR,Belarus,2009,
+BLR,Belarus,2010,
+BLR,Belarus,2011,
+BLR,Belarus,2012,
+BLR,Belarus,2013,
+BLR,Belarus,2014,
+BLR,Belarus,2015,
+BRA,Brazil,2000,
+BRA,Brazil,2001,
+BRA,Brazil,2002,
+BRA,Brazil,2004,
+BRA,Brazil,2005,
+BRA,Brazil,2006,
+BRA,Brazil,2007,
+BRA,Brazil,2010,72.1424
+BRA,Brazil,2011,67.97751
+BRA,Brazil,2012,
+BRA,Brazil,2013,
+BRA,Brazil,2014,
+BGR,Bulgaria,1996,
+BGR,Bulgaria,1997,
+BGR,Bulgaria,1998,
+BGR,Bulgaria,1999,
+BGR,Bulgaria,2000,
+BGR,Bulgaria,2001,
+BGR,Bulgaria,2002,
+BGR,Bulgaria,2003,
+BGR,Bulgaria,2004,
+BGR,Bulgaria,2005,
+BGR,Bulgaria,2006,
+BGR,Bulgaria,2007,
+BGR,Bulgaria,2008,
+BGR,Bulgaria,2009,
+BGR,Bulgaria,2010,
+BGR,Bulgaria,2011,
+BGR,Bulgaria,2012,
+BGR,Bulgaria,2013,
+COL,Colombia,2006,
+COL,Colombia,2007,
+COL,Colombia,2008,
+COL,Colombia,2009,
+COL,Colombia,2010,
+COL,Colombia,2011,
+COL,Colombia,2012,
+COL,Colombia,2013,
+COL,Colombia,2014,
+COL,Colombia,2015,
+HRV,Croatia,1999,
+HRV,Croatia,2000,
+HRV,Croatia,2001,
+HRV,Croatia,2002,
+HRV,Croatia,2003,
+HRV,Croatia,2004,
+HRV,Croatia,2005,
+HRV,Croatia,2006,
+HRV,Croatia,2007,
+HRV,Croatia,2008,
+HRV,Croatia,2009,
+HRV,Croatia,2010,
+HRV,Croatia,2011,
+HRV,Croatia,2012,
+HRV,Croatia,2013,
+HRV,Croatia,2014,
+HRV,Croatia,2015,
+CUB,Cuba,1997,58.70455
+CUB,Cuba,1998,
+CUB,Cuba,1999,
+CUB,Cuba,2000,
+CUB,Cuba,2001,
+CUB,Cuba,2002,
+CUB,Cuba,2003,
+CUB,Cuba,2004,
+CUB,Cuba,2005,
+CUB,Cuba,2006,
+CUB,Cuba,2007,
+CUB,Cuba,2008,
+CUB,Cuba,2009,
+CUB,Cuba,2010,
+CUB,Cuba,2011,
+CUB,Cuba,2012,
+CUB,Cuba,2013,
+CUB,Cuba,2014,
+CUB,Cuba,2015,
+CYP,Cyprus,1998,
+CYP,Cyprus,1999,
+CYP,Cyprus,2000,
+CYP,Cyprus,2001,
+CYP,Cyprus,2002,
+CYP,Cyprus,2003,
+CYP,Cyprus,2004,
+CYP,Cyprus,2005,
+CYP,Cyprus,2006,
+CYP,Cyprus,2007,
+CYP,Cyprus,2008,
+CYP,Cyprus,2009,
+CYP,Cyprus,2010,
+CYP,Cyprus,2011,
+CYP,Cyprus,2012,
+CYP,Cyprus,2013,
+CYP,Cyprus,2014,
+ECU,Ecuador,1996,
+ECU,Ecuador,1997,
+ECU,Ecuador,2006,5809.1332
+ECU,Ecuador,2007,9785.73367
+ECU,Ecuador,2008,
+ECU,Ecuador,2009,210476.82261
+ECU,Ecuador,2010,239335.8406
+ECU,Ecuador,2011,297647.6699
+ECU,Ecuador,2012,308450.00176
+ECU,Ecuador,2013,322167.42629
+ECU,Ecuador,2014,340766.6626
+EST,Estonia,1998,
+EST,Estonia,1999,
+EST,Estonia,2000,
+EST,Estonia,2001,
+EST,Estonia,2002,
+EST,Estonia,2003,
+EST,Estonia,2004,
+EST,Estonia,2005,
+EST,Estonia,2006,
+EST,Estonia,2007,
+EST,Estonia,2008,
+EST,Estonia,2009,
+EST,Estonia,2010,
+EST,Estonia,2011,
+EST,Estonia,2012,
+EST,Estonia,2013,
+EST,Estonia,2014,
+EST,Estonia,2015,
+ETH,Ethiopia,2005,
+ETH,Ethiopia,2007,596.15683
+ETH,Ethiopia,2010,4820.99402
+ETH,Ethiopia,2013,126015.63819
+HKG,"China, Hong Kong Special Administrative Region",2000,
+HKG,"China, Hong Kong Special Administrative Region",2001,
+HKG,"China, Hong Kong Special Administrative Region",2002,
+HKG,"China, Hong Kong Special Administrative Region",2003,
+HKG,"China, Hong Kong Special Administrative Region",2004,
+HKG,"China, Hong Kong Special Administrative Region",2005,
+HKG,"China, Hong Kong Special Administrative Region",2006,
+HKG,"China, Hong Kong Special Administrative Region",2007,
+HKG,"China, Hong Kong Special Administrative Region",2008,
+HKG,"China, Hong Kong Special Administrative Region",2009,
+HKG,"China, Hong Kong Special Administrative Region",2010,
+HKG,"China, Hong Kong Special Administrative Region",2012,
+HKG,"China, Hong Kong Special Administrative Region",2013,
+HKG,"China, Hong Kong Special Administrative Region",2014,
+IDN,Indonesia,2000,3558.33299
+IDN,Indonesia,2001,3190.48538
+IRN,Iran (Islamic Republic of),2001,
+IRN,Iran (Islamic Republic of),2002,
+IRN,Iran (Islamic Republic of),2003,
+IRN,Iran (Islamic Republic of),2004,
+IRN,Iran (Islamic Republic of),2005,
+IRN,Iran (Islamic Republic of),2006,
+IRN,Iran (Islamic Republic of),2008,
+KEN,Kenya,2007,
+KEN,Kenya,2010,
+KWT,Kuwait,2002,
+KWT,Kuwait,2003,
+KWT,Kuwait,2013,
+KGZ,Kyrgyzstan,1997,
+KGZ,Kyrgyzstan,1998,
+KGZ,Kyrgyzstan,1999,
+KGZ,Kyrgyzstan,2000,
+KGZ,Kyrgyzstan,2001,
+KGZ,Kyrgyzstan,2002,
+KGZ,Kyrgyzstan,2003,
+KGZ,Kyrgyzstan,2004,
+KGZ,Kyrgyzstan,2005,
+KGZ,Kyrgyzstan,2011,366.05846
+KGZ,Kyrgyzstan,2013,15.51802
+KGZ,Kyrgyzstan,2014,256.9257
+KGZ,Kyrgyzstan,2015,204.8907
+LVA,Latvia,1996,
+LVA,Latvia,1997,
+LVA,Latvia,1998,
+LVA,Latvia,1999,
+LVA,Latvia,2000,
+LVA,Latvia,2001,
+LVA,Latvia,2002,
+LVA,Latvia,2003,
+LVA,Latvia,2004,
+LVA,Latvia,2005,
+LVA,Latvia,2006,
+LVA,Latvia,2007,
+LVA,Latvia,2008,
+LVA,Latvia,2009,
+LVA,Latvia,2010,
+LVA,Latvia,2011,
+LVA,Latvia,2012,
+LVA,Latvia,2013,
+LVA,Latvia,2014,
+LVA,Latvia,2015,
+LTU,Lithuania,2000,
+LTU,Lithuania,2001,
+LTU,Lithuania,2002,
+LTU,Lithuania,2003,
+LTU,Lithuania,2004,
+LTU,Lithuania,2005,
+LTU,Lithuania,2006,
+LTU,Lithuania,2007,
+LTU,Lithuania,2008,
+LTU,Lithuania,2009,
+LTU,Lithuania,2010,
+LTU,Lithuania,2011,
+LTU,Lithuania,2012,
+LTU,Lithuania,2013,
+LTU,Lithuania,2014,
+LTU,Lithuania,2015,
+MYS,Malaysia,1998,
+MYS,Malaysia,2002,
+MYS,Malaysia,2004,
+MYS,Malaysia,2006,178092.78858
+MYS,Malaysia,2008,87467.94114
+MYS,Malaysia,2009,2560.65731
+MYS,Malaysia,2010,5520.46178
+MYS,Malaysia,2011,10279.09978
+MYS,Malaysia,2012,222292.7105
+MYS,Malaysia,2014,7468112.59308
+MYS,Malaysia,2015,4707813.82767
+MLI,Mali,2007,
+MLI,Mali,2010,
+MLT,Malta,2002,
+MLT,Malta,2005,
+MLT,Malta,2006,
+MLT,Malta,2007,
+MLT,Malta,2008,
+MLT,Malta,2009,
+MLT,Malta,2010,
+MLT,Malta,2011,
+MLT,Malta,2012,
+MLT,Malta,2013,
+MLT,Malta,2014,
+MLT,Malta,2015,
+MDA,Republic of Moldova,1997,
+MDA,Republic of Moldova,2003,27489.01281
+MDA,Republic of Moldova,2004,33007.67612
+MDA,Republic of Moldova,2005,40606.84592
+MDA,Republic of Moldova,2006,45233.434
+MDA,Republic of Moldova,2007,64216.03691
+MDA,Republic of Moldova,2008,68406.72096
+MDA,Republic of Moldova,2009,61878.55347
+MDA,Republic of Moldova,2010,55612.79296
+MDA,Republic of Moldova,2011,54616.56317
+MDA,Republic of Moldova,2013,52253.44406
+MDA,Republic of Moldova,2014,57660.59315
+MDA,Republic of Moldova,2015,58532.71921
+MNG,Mongolia,2003,431.45106
+MNG,Mongolia,2004,436.62859
+MNG,Mongolia,2005,2108.41621
+MNG,Mongolia,2006,2860.45002
+MNG,Mongolia,2007,9343.05695
+MNG,Mongolia,2008,16855.56626
+MNG,Mongolia,2009,18658.73532
+MNG,Mongolia,2010,12964.49554
+MNG,Mongolia,2011,10172.83307
+MNG,Mongolia,2013,8152.47722
+MNG,Mongolia,2014,8346.68262
+MNG,Mongolia,2015,1631.50077
+NGA,Nigeria,2007,8812.32296
+PAN,Panama,1996,
+PAN,Panama,1997,
+PAN,Panama,1998,
+PAN,Panama,1999,
+PAN,Panama,2000,
+PAN,Panama,2001,94.22607
+PAN,Panama,2002,92.77701
+PAN,Panama,2003,92.52472
+PAN,Panama,2004,
+PAN,Panama,2005,
+PAN,Panama,2006,8.30379
+PAN,Panama,2007,66.0738
+PAN,Panama,2008,90.83504
+PAN,Panama,2009,4.99539
+PAN,Panama,2010,5.94608
+PAN,Panama,2011,18.57212
+PAN,Panama,2012,
+PAN,Panama,2013,
+PRY,Paraguay,2001,0.00511
+PRY,Paraguay,2002,
+PRY,Paraguay,2003,
+PRY,Paraguay,2004,
+PRY,Paraguay,2005,
+PRY,Paraguay,2008,
+PRY,Paraguay,2011,
+PRY,Paraguay,2012,970.32988
+PRY,Paraguay,2014,4734.76815
+PRY,Paraguay,2015,7966.63455
+LKA,Sri Lanka,2000,20795.71062
+LKA,Sri Lanka,2004,17309.10236
+LKA,Sri Lanka,2006,23775.52268
+LKA,Sri Lanka,2008,6835.45962
+LKA,Sri Lanka,2010,594.79844
+LKA,Sri Lanka,2013,905.68366
+TJK,Tajikistan,2001,112.45087
+TJK,Tajikistan,2002,306.84486
+TJK,Tajikistan,2003,1553.21878
+TJK,Tajikistan,2004,1925.46273
+TJK,Tajikistan,2005,545.35917
+TJK,Tajikistan,2006,2448.19767
+TJK,Tajikistan,2007,234.82751
+TJK,Tajikistan,2008,711.96499
+TJK,Tajikistan,2009,2025.17319
+TJK,Tajikistan,2010,2762.96055
+TJK,Tajikistan,2011,3166.55309
+TJK,Tajikistan,2013,1732.78764
+TJK,Tajikistan,2014,
+TJK,Tajikistan,2015,
+THA,Thailand,1996,
+THA,Thailand,1997,2396.14974
+THA,Thailand,2002,761683.46852
+THA,Thailand,2003,17556.14044
+THA,Thailand,2004,958935.53354
+THA,Thailand,2005,35271.49185
+THA,Thailand,2007,55050.77916
+THA,Thailand,2009,30069.94002
+THA,Thailand,2011,44262.97339
+THA,Thailand,2014,919676.54634
+THA,Thailand,2015,418875.17681
+TUN,Tunisia,2002,
+TUN,Tunisia,2003,
+TUN,Tunisia,2004,
+TUN,Tunisia,2005,
+TUN,Tunisia,2006,
+TUN,Tunisia,2007,
+TUN,Tunisia,2008,
+TUN,Tunisia,2009,
+TUN,Tunisia,2010,
+TUN,Tunisia,2011,
+TUN,Tunisia,2012,
+TUN,Tunisia,2014,
+TUN,Tunisia,2015,
+UGA,Uganda,2002,
+UGA,Uganda,2003,
+UGA,Uganda,2004,
+UGA,Uganda,2005,
+UGA,Uganda,2006,
+UGA,Uganda,2007,
+UGA,Uganda,2008,
+UGA,Uganda,2009,
+UGA,Uganda,2010,
+UKR,Ukraine,2001,90632.73492
+UKR,Ukraine,2002,76056.46321
+UKR,Ukraine,2003,60283.95973
+UKR,Ukraine,2004,88623.0318
+UKR,Ukraine,2005,87642.37537
+UKR,Ukraine,2006,48553.56602
+UKR,Ukraine,2007,42030.29707
+UKR,Ukraine,2008,56012.14939
+UKR,Ukraine,2009,46985.91746
+UKR,Ukraine,2010,31229.41945
+UKR,Ukraine,2011,21203.14232
+UKR,Ukraine,2013,40081.31253
+UKR,Ukraine,2014,25577.39361
+UKR,Ukraine,2015,42412.84325
+URY,Uruguay,1996,15.42138
+URY,Uruguay,1997,213.5845
+URY,Uruguay,1998,6.51184
+URY,Uruguay,1999,7.57493
+URY,Uruguay,2000,14.18439
+URY,Uruguay,2002,
+URY,Uruguay,2006,41402.0405
+URY,Uruguay,2007,
+URY,Uruguay,2008,
+URY,Uruguay,2009,2365.40118
+URY,Uruguay,2010,1472.81917
+URY,Uruguay,2011,18778.07588
+URY,Uruguay,2012,
+URY,Uruguay,2013,
+URY,Uruguay,2014,
+VIR,United States Virgin Islands,2002,
+MAC,"China, Macao Special Administrative Region",2005,337.99674
+MAC,"China, Macao Special Administrative Region",2006,699.13193
+MAC,"China, Macao Special Administrative Region",2007,339.02417
+MAC,"China, Macao Special Administrative Region",2008,114.17877
+MAC,"China, Macao Special Administrative Region",2013,
+MAC,"China, Macao Special Administrative Region",2014,322.76514
+MAC,"China, Macao Special Administrative Region",2015,5310.90128
+SRB,Serbia,2007,
+SRB,Serbia,2008,
+SRB,Serbia,2009,
+SRB,Serbia,2010,
+SRB,Serbia,2011,
+SRB,Serbia,2012,
+SRB,Serbia,2013,
+SRB,Serbia,2014,
+SRB,Serbia,2015,
+ALB,Albania,2007,
+ALB,Albania,2008,
+BOL,Bolivia (Plurinational State of),1996,1566.89154
+BOL,Bolivia (Plurinational State of),1997,
+BOL,Bolivia (Plurinational State of),1998,804.74369
+BOL,Bolivia (Plurinational State of),1999,
+BOL,Bolivia (Plurinational State of),2000,
+BOL,Bolivia (Plurinational State of),2001,
+BOL,Bolivia (Plurinational State of),2002,
+BOL,Bolivia (Plurinational State of),2009,10293.68069
+BRN,Brunei Darussalam,2002,
+BRN,Brunei Darussalam,2003,
+BRN,Brunei Darussalam,2004,
+BFA,Burkina Faso,2007,625.26169
+BFA,Burkina Faso,2008,2370.21583
+BFA,Burkina Faso,2009,2348.08955
+KHM,Cambodia,2002,839.31908
+KHM,Cambodia,2015,
+CRI,Costa Rica,2008,20304.17449
+CRI,Costa Rica,2009,38952.83769
+CRI,Costa Rica,2012,126787.18652
+CRI,Costa Rica,2013,133579.36435
+CRI,Costa Rica,2014,166517.91312
+SLV,El Salvador,1998,
+SLV,El Salvador,2007,16.054
+SLV,El Salvador,2008,12.05926
+SLV,El Salvador,2009,100.24943
+SLV,El Salvador,2010,37.05382
+SLV,El Salvador,2011,16.30093
+SLV,El Salvador,2012,
+SLV,El Salvador,2013,81.13637
+SLV,El Salvador,2014,
+GAB,Gabon,2007,
+GAB,Gabon,2008,9.7473
+GAB,Gabon,2009,11.98813
+GHA,Ghana,2007,
+GHA,Ghana,2010,
+GTM,Guatemala,2005,
+GTM,Guatemala,2006,
+GTM,Guatemala,2007,
+GTM,Guatemala,2008,
+GTM,Guatemala,2009,
+GTM,Guatemala,2010,
+GTM,Guatemala,2011,
+GTM,Guatemala,2012,
+KAZ,Kazakhstan,1997,
+KAZ,Kazakhstan,1998,
+KAZ,Kazakhstan,1999,
+KAZ,Kazakhstan,2000,
+KAZ,Kazakhstan,2001,
+KAZ,Kazakhstan,2003,
+KAZ,Kazakhstan,2004,
+KAZ,Kazakhstan,2005,
+KAZ,Kazakhstan,2006,
+KAZ,Kazakhstan,2007,
+KAZ,Kazakhstan,2008,
+KAZ,Kazakhstan,2010,
+KAZ,Kazakhstan,2011,
+KAZ,Kazakhstan,2013,46091.29053
+LAO,Lao People's Democratic Republic,2002,
+LSO,Lesotho,2009,941.30248
+LSO,Lesotho,2011,310.99134
+LSO,Lesotho,2015,
+MKD,The former Yugoslav Republic of Macedonia,1997,
+MKD,The former Yugoslav Republic of Macedonia,1998,
+MKD,The former Yugoslav Republic of Macedonia,1999,
+MKD,The former Yugoslav Republic of Macedonia,2000,
+MKD,The former Yugoslav Republic of Macedonia,2001,
+MKD,The former Yugoslav Republic of Macedonia,2002,
+MKD,The former Yugoslav Republic of Macedonia,2015,
+MAR,Morocco,2002,
+MAR,Morocco,2003,
+MAR,Morocco,2006,
+MAR,Morocco,2010,
+PAK,Pakistan,2005,18277.53802
+PAK,Pakistan,2007,60565.64848
+PAK,Pakistan,2009,39788.85935
+PAK,Pakistan,2011,32226.32453
+PAK,Pakistan,2013,42086.16991
+PAK,Pakistan,2015,106014.08604
+PHL,Philippines,2002,2686.48133
+PHL,Philippines,2003,214.92322
+PHL,Philippines,2005,1300.84977
+PHL,Philippines,2007,2626.49706
+PHL,Philippines,2009,18152.76708
+PHL,Philippines,2011,325.7433
+PHL,Philippines,2013,4514.58
+SEN,Senegal,2008,50.80055
+SEN,Senegal,2010,6717.28912
+VNM,Viet Nam,2002,2859.68609
+VNM,Viet Nam,2011,
+VNM,Viet Nam,2013,32466.81731
+ZMB,Zambia,2008,
+IRQ,Iraq,2007,
+IRQ,Iraq,2008,
+IRQ,Iraq,2009,
+IRQ,Iraq,2010,
+IRQ,Iraq,2011,
+IRQ,Iraq,2014,
+IRQ,Iraq,2015,
+BDI,Burundi,2008,
+GMB,Gambia,2011,
+OMN,Oman,2011,40328.69851
+OMN,Oman,2012,8.1072
+OMN,Oman,2013,6381.92297
+OMN,Oman,2014,
+OMN,Oman,2015,
+MOZ,Mozambique,2010,
+MOZ,Mozambique,2015,3189.96039
+MNE,Montenegro,2011,
+MNE,Montenegro,2013,
+MNE,Montenegro,2014,
+MNE,Montenegro,2015,
+MDG,Madagascar,2011,
+TGO,Togo,2014,
+NAM,Namibia,2010,
+NAM,Namibia,2014,
+CPV,Cabo Verde,2011,
+TZA,United Republic of Tanzania,2010,
+BWA,Botswana,2012,151.68781
+BWA,Botswana,2013,
+PRI,Puerto Rico,2013,1509.36036
+BIH,Bosnia and Herzegovina,2012,24953.3038
+BIH,Bosnia and Herzegovina,2013,23743.83017
+BIH,Bosnia and Herzegovina,2014,
+BIH,Bosnia and Herzegovina,2015,
+BHR,Bahrain,2014,672.4649
+MUS,Mauritius,2012,
+QAT,Qatar,2012,675.06283
+EGY,Egypt,2014,
+UZB,Uzbekistan,2014,15268.23797
+UZB,Uzbekistan,2015,11838.90542
+ARE,United Arab Emirates,2014,
+GEO,Georgia,2013,120.13803
+PSE,Palestine,2007,8119.62109
+PSE,Palestine,2008,7564.27855
+PSE,Palestine,2009,17499.92124
+PSE,Palestine,2010,11095.02252
+PSE,Palestine,2013,20133.00473
