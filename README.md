@@ -1,4 +1,4 @@
-Expenditure on Research and Development(R&D) by countries with indicators such as source of funds, type of R%&D activity, fields of R&D(medical and health sciences).
+Expenditure on Research and Development(R&D) by countries with indicators such as source of funds, type of R%&D activity, fields of R&D(medical and health sciences) since 1996.
 
 ## Data
 
