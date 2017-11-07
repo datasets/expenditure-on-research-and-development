@@ -101,7 +101,7 @@ def merge():
     merged7 = pd.merge(merged6,h, on =['LOCATION', 'TIME', 'Country'], how='outer')
     merged8 = pd.merge(merged7,i, on =['LOCATION', 'TIME', 'Country'], how='outer')
     merged9 = pd.merge(merged8,j, on =['LOCATION', 'TIME', 'Country'], how='outer')
-    merged10 = pd.merge(merged9,k, on =['LOCATION', 'TIME', 'Country'], how='outer').sort_values(by='LOCATION')
+    merged10 = pd.merge(merged9,k, on =['LOCATION', 'TIME', 'Country'], how='outer').sort_values(by=['LOCATION','TIME'])
     merged10.to_csv("data/expenditure.csv", index=False)
     
 government()
