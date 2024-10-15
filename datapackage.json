@@ -1,7 +1,7 @@
 {
   "title": "Expenditure on Research and Development(R&D)",
   "name": "expenditure-on-research-and-development",
-  "sources":[
+  "sources": [
     {
       "title": "UNESCO institute for statistics",
       "path": "http://data.uis.unesco.org/"
@@ -97,5 +97,6 @@
         ]
       }
     }
-  ]
+  ],
+  "collection": "economic-data"
 }
