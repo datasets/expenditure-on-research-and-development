@@ -1,4 +1,4 @@
-<a href="https://datahub.io/core/expenditure-on-research-and-development"><img src="https://badgen.net/badge/icon/View%20on%20datahub.io/orange?icon=https://datahub.io/datahub-cube-badge-icon.svg&label&scale=1.25)" alt="badge" /></a>
+<a className="gh-badge" href="https://datahub.io/core/expenditure-on-research-and-development"><img src="https://badgen.net/badge/icon/View%20on%20datahub.io/orange?icon=https://datahub.io/datahub-cube-badge-icon.svg&label&scale=1.25" alt="badge" /></a>
 
 Expenditure on Research and Development(R&D) by countries with indicators such as source of funds, type of R%&D activity, fields of R&D(medical and health sciences) since 1996.
 
